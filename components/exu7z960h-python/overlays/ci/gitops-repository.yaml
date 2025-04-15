@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: exu7z960h-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/exu7z960h-python-gitops
